@@ -1,0 +1,67 @@
+body
+{
+    background-image: url(33.jpg);
+}
+h1{
+    font-size: 65px;
+    background-image: -webkit-radial-gradient(orange,red);
+}
+h4
+{
+    background-image: -webkit-linear-gradient(green,yellow);
+}
+h2{
+
+}
+nav{
+    
+    background-image: -webkit-linear-gradient(orange,yellow);
+    font-size: 35px;
+    word-spacing: 20px;
+    
+    
+
+}
+img{
+    align-content: center;
+}
+.column1
+{
+    background-color:rgb(243, 220, 11);
+    
+}
+.column2
+{
+    background-color:rgb(243, 220, 11);
+    
+}
+.column3
+{
+    background-color:rgb(243, 220, 11);
+    
+}
+.column1 img{
+    align-content: center;
+}
+i{
+    background-image: -webkit-linear-gradient(BLUE,GREEN);
+}
+.wrap2 
+{
+    float: right;
+}
+.row1,.row2,.row3, p
+{
+    background-image: -webkit-linear-gradient(orange,pink);
+    font-size: 20px;
+}
+.row1,.row2,.row3, a{
+    color:blue;
+    font-display: solid;
+    fo
+    font-family: 'Spirax', cursive;
+}
+p1{
+    background-color: violet;
+    font-size: 30px;
+} 
